@@ -1,4 +1,4 @@
-<h1><center>Frequency table generator</center></h1>
+<h1>Frequency table generator</h1>
 An little application with CLI (command line interface) to generate an simple frequency table.<br>
 <b>How to use:
   <ul>
